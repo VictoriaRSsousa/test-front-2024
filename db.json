@@ -1,0 +1,258 @@
+{
+  "usuarios": [
+    {
+      "id": "dff5",
+      "nome": "Tulio",
+      "matricula": "8273564",
+      "idade": 55,
+      "cargo": "Coordenador de projetos",
+      "tipo": 1
+    },
+    {
+      "id": "265a",
+      "nome": "Mauricio",
+      "matricula": "34657",
+      "idade": 43,
+      "cargo": "Técnico de suporte",
+      "tipo": 2
+    },
+    {
+      "id": "0b30",
+      "nome": "Bruno",
+      "matricula": "9174678",
+      "idade": 56,
+      "cargo": "Analista de sistema",
+      "tipo": 2
+    },
+    {
+      "id": "5b0a",
+      "nome": "Pedro",
+      "matricula": "23874238",
+      "idade": 32,
+      "cargo": "Desenvolvedor",
+      "tipo": 2
+    },
+    {
+      "id": "a6d0",
+      "nome": "Nanda",
+      "matricula": "82734652",
+      "idade": 32,
+      "cargo": "Marketing",
+      "tipo": 2
+    },
+    {
+      "id": "c270",
+      "nome": "Marcos Paulo",
+      "matricula": "279634",
+      "idade": 33,
+      "cargo": "Desenvolvedor",
+      "tipo": 2
+    },
+    {
+      "id": "d796",
+      "nome": "Bruce Benner",
+      "matricula": "184723",
+      "idade": 43,
+      "cargo": "Marketing",
+      "tipo": 2
+    },
+    {
+      "id": "9641",
+      "nome": "Tony Stark",
+      "matricula": "18974",
+      "idade": 44,
+      "cargo": "Desenvolvedor",
+      "tipo": 1
+    },
+    {
+      "id": "9e1f",
+      "nome": "Steve Rogers",
+      "matricula": "174737",
+      "idade": 18,
+      "cargo": "Técnico de suporte",
+      "tipo": 1
+    },
+    {
+      "id": "186f",
+      "nome": "Priscila",
+      "matricula": "8234298",
+      "idade": 42,
+      "cargo": "Coordenador de projetos",
+      "tipo": 2
+    },
+    {
+      "id": "1a2b",
+      "nome": "João",
+      "matricula": "12345678",
+      "idade": 25,
+      "cargo": "Analista de sistema",
+      "tipo": 1
+    },
+    {
+      "id": "2c3d",
+      "nome": "Maria",
+      "matricula": "23456789",
+      "idade": 30,
+      "cargo": "Gerente",
+      "tipo": 2
+    },
+    {
+      "id": "3e4f",
+      "nome": "Carlos",
+      "matricula": "34567890",
+      "idade": 40,
+      "cargo": "Desenvolvedor",
+      "tipo": 1
+    },
+    {
+      "id": "4g5h",
+      "nome": "Ana",
+      "matricula": "45678901",
+      "idade": 22,
+      "cargo": "Técnico de suporte",
+      "tipo": 2
+    },
+    {
+      "id": "5i6j",
+      "nome": "Fernanda",
+      "matricula": "56789012",
+      "idade": 35,
+      "cargo": "Marketing",
+      "tipo": 1
+    },
+    {
+      "id": "6k7l",
+      "nome": "Pedro",
+      "matricula": "67890123",
+      "idade": 28,
+      "cargo": "Coordenador de projetos",
+      "tipo": 2
+    },
+    {
+      "id": "7m8n",
+      "nome": "Lucas",
+      "matricula": "78901234",
+      "idade": 32,
+      "cargo": "Desenvolvedor",
+      "tipo": 1
+    },
+    {
+      "id": "8o9p",
+      "nome": "Julia",
+      "matricula": "89012345",
+      "idade": 29,
+      "cargo": "Gerente",
+      "tipo": 2
+    },
+    {
+      "id": "9q0r",
+      "nome": "Gabriel",
+      "matricula": "90123456",
+      "idade": 38,
+      "cargo": "Analista de sistema",
+      "tipo": 1
+    },
+    {
+      "id": "0s1t",
+      "nome": "Sophia",
+      "matricula": "01234567",
+      "idade": 24,
+      "cargo": "Técnico de suporte",
+      "tipo": 2
+    },
+    {
+      "id": "1u2v",
+      "nome": "Isabela",
+      "matricula": "12345098",
+      "idade": 27,
+      "cargo": "Marketing",
+      "tipo": 1
+    },
+    {
+      "id": "2w3x",
+      "nome": "Victor",
+      "matricula": "23456109",
+      "idade": 45,
+      "cargo": "Coordenador de projetos",
+      "tipo": 2
+    },
+    {
+      "id": "3y4z",
+      "nome": "Helena",
+      "matricula": "34567210",
+      "idade": 20,
+      "cargo": "Desenvolvedor",
+      "tipo": 1
+    },
+    {
+      "id": "4a5b",
+      "nome": "Rafael",
+      "matricula": "45678321",
+      "idade": 31,
+      "cargo": "Gerente",
+      "tipo": 2
+    },
+    {
+      "id": "5c6d",
+      "nome": "Larissa",
+      "matricula": "56789432",
+      "idade": 26,
+      "cargo": "Analista de sistema",
+      "tipo": 1
+    },
+    {
+      "id": "6e7f",
+      "nome": "Eduardo",
+      "matricula": "67890543",
+      "idade": 36,
+      "cargo": "Técnico de suporte",
+      "tipo": 2
+    },
+    {
+      "id": "7g8h",
+      "nome": "Alice",
+      "matricula": "78901654",
+      "idade": 23,
+      "cargo": "Marketing",
+      "tipo": 1
+    },
+    {
+      "id": "8i9j",
+      "nome": "Henrique",
+      "matricula": "89012765",
+      "idade": 39,
+      "cargo": "Coordenador de projetos",
+      "tipo": 2
+    },
+    {
+      "id": "9k0l",
+      "nome": "Clara",
+      "matricula": "90123876",
+      "idade": 21,
+      "cargo": "Desenvolvedor",
+      "tipo": 1
+    },
+    {
+      "id": "0m1n",
+      "nome": "Thiago",
+      "matricula": "01234987",
+      "idade": 34,
+      "cargo": "Gerente",
+      "tipo": 2
+    }
+  ],
+  "login": [
+    {
+      "id": "1",
+      "usuario": "admin",
+      "senha": "1234",
+      "tipo": 1
+    },
+    {
+      "id": "2",
+      "usuario": "comum",
+      "senha": "5678",
+      "tipo": 2
+    }
+  ]
+}
